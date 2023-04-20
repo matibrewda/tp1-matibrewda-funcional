@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "tp1-matibrewda:lib"
+
+    - path: "./test"
+      component: "tp1-matibrewda:test:tp1-matibrewda-test"
